@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://singular-gecko-c692ac.netlify.app/"
 locale = 'en-us'
 gitle = 'My New Hugo Project'
 theme = "paper"
